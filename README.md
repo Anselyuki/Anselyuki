@@ -28,12 +28,6 @@
 - MySQL | Mongodb
 - IntelliJ IDEA | Visual Studio Code | Git | Vim
 
-This Week I Spent My Time On:
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ![](https://github-profile-trophy.vercel.app/?username=Anselyuki)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Anselyuki&include_all_commits=true&count_private=true&show_icons=true&line_height=20)
