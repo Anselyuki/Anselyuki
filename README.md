@@ -2,7 +2,7 @@
 
 少しだけ，梦に近づきました！
 
-<img align="right" alt="Kano" src="https://raw.githubusercontent.com/anselyuki/anselyuki/master/img/kanoTitle.png" width="500"/>
+![kano](https://raw.githubusercontent.com/anselyuki/anselyuki/master/img/kanoTitle.png)
 
 ## About Me
 
