@@ -24,7 +24,7 @@
 
 ## Tech Stack
 
-- Java | C | C++ | Python |
+- Java | Rust | C | C++ | Python |
 - MySQL | Mongodb
 - IntelliJ IDEA | Visual Studio Code | Git | Vim
 
