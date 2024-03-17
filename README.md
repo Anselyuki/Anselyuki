@@ -6,7 +6,7 @@
 
 ## About Me
 
-曾经的 OI 菜鸡选手，现在的轮子工程师兼任 BUG 工程师
+现任 Java 开发工程师，喜欢进行性能调优以及底层组件开发，上班之余会学一些奇怪的新技术，有 OI 比赛经验，对底层常见的优化算法都有过一些接触
 
 **鹿乃单推人**
 
@@ -16,17 +16,19 @@
 
 > 第一次投稿，是 2010 年 1 月 16 日，而在 16 年的某个夏日的晚上，我与她邂逅了
 >
-> 十二年过去，她早已从无名唱见成功走上正轨，而我也早已不是那个懵懂的少年
+> 十四年过去，她早已从无名唱见成功走上正轨，而我也早已不是那个懵懂的少年
 >
-> 以广州的演唱会开始，到 19 年的花寄鹿出道，她陪伴我走过了许多个日日夜夜，我依旧期待着她为我们带来的更多美好
+> 以广州的演唱会开始，到 19 年的 VTuber 出道，她陪伴我走过了许多个日日夜夜，我依旧期待着她为我们带来的更多美好
 
 <p style="font-size:20px"><strong>现在也是如此。</strong></p>
 
 ## Tech Stack
 
-- Java | Rust | C | C++ | Python |
+- Java | Rust | C | C++ | Python | Golang
 - MySQL | Mongodb
 - IntelliJ IDEA | Visual Studio Code | Git | Vim
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anselyuki&hide=Vue,HTML&title_color=39c5bb&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=Anselyuki)
 
